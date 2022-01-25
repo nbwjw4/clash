@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,localhost
+DOMAIN-SUFFIX,store.steampowered.com
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,100.64.0.0/10,no-resolve
 IP-CIDR,127.0.0.0/8,no-resolve
