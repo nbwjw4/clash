@@ -25,4 +25,4 @@ PROCESS-NAME,Weiyun.exe
 #Baidu disk
 PROCESS-NAME,baidunetdisk.exe
 #GEO IP
-GEOIP, CN, DIRECT
+GEOIP, CN
