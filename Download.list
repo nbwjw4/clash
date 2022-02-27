@@ -24,3 +24,5 @@ URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 PROCESS-NAME,Weiyun.exe
 #Baidu disk
 PROCESS-NAME,baidunetdisk.exe
+#GEO IP
+GEOIP, CN, DIRECT
