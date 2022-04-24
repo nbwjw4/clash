@@ -24,3 +24,12 @@ URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 PROCESS-NAME,Weiyun.exe
 #Baidu disk
 PROCESS-NAME,baidunetdisk.exe
+DOMAIN-SUFFIX,assets1.xboxlive.com
+DOMAIN-SUFFIX,assets2.xboxlive.com
+DOMAIN-SUFFIX,d1.xboxlive.com
+DOMAIN-SUFFIX,d2.xboxlive.com
+DOMAIN-SUFFIX,xboxd1.s.loris.llnwd.net
+DOMAIN-SUFFIX,xboxd2.s.loris.llnwd.net
+DOMAIN-SUFFIX,xvcf1.xboxlive.com
+DOMAIN-SUFFIX,xvcf2.xboxlive.com
+DOMAIN-SUFFIX,dssott.com
