@@ -1,6 +1,8 @@
 # 内容：国外媒体列表
 # 更新：2022-01-23 19:23:37
 # 数量：317条
+#DNS
+DOMAIN-SUFFIX,dns.quad9.net
 #ntp
 DOMAIN-SUFFIX,ntp.ubuntu.com
 #dns
