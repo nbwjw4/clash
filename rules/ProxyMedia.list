@@ -9,6 +9,7 @@ IP-CIDR,1.1.1.1/32,no-resolve
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
 
+
 # AbemaTV
 USER-AGENT,AbemaTV*
 DOMAIN-KEYWORD,abematv.akamaized.net
@@ -117,6 +118,11 @@ DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 
+#discord
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.gg
+
 # EncoreTVB
 USER-AGENT,encoreTVB*
 DOMAIN,bcbolt446c5271-a.akamaihd.net
@@ -130,6 +136,10 @@ USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,uplynk.com
+
+#GitHub
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
 
 # HBO
 USER-AGENT,HBO%20NOW*
