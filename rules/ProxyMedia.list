@@ -137,9 +137,6 @@ DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,uplynk.com
 
-#GitHub
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubassets.com
 
 # HBO
 USER-AGENT,HBO%20NOW*
