@@ -2,6 +2,7 @@
 # 更新：2022-01-23 19:23:37
 # 数量：317条
 
+
 #ntp
 DOMAIN-SUFFIX,ntp.ubuntu.com
 #dns
@@ -245,7 +246,8 @@ DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,profile.line-scdn.net
-
+# mobile01
+DOMAIN,mobile01.com
 # My5
 USER-AGENT,My5*
 DOMAIN,d349g9zuie06uo.cloudfront.net
