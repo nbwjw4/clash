@@ -5,11 +5,7 @@
 
 #ntp
 DOMAIN-SUFFIX,ntp.ubuntu.com
-#dns
-IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,9.9.9.9/32,no-resolve
-IP-CIDR,4.4.4.4/32,no-resolve
+
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
